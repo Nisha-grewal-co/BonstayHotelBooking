@@ -1,0 +1,28 @@
+.app{
+  background-image: url("bg-image.jpg");
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+.reg-image{
+  background-image: url("registration-image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.home-img{
+  background-image: url("home-img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hotel-img{
+  background-image: url("hotel.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+body{
+  color: white;
+}
